@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Microservice
 
 A complete end-to-end microservice for binary sentiment analysis using Hugging Face Transformers, Flask, and React.
@@ -297,3 +298,7 @@ FLASK_DEBUG=1 python backend/app.py
 
 2. **API Connection Issues**
    - Verify backend is running on port
+=======
+# sentiment-analysis
+A simple app which analyses the sentiment of a sentence, and classifies it as either Positive or Negative. It can be run fully locally.
+>>>>>>> 710839acfb0b3e4adab2f0c8e7e9259b6505be30
